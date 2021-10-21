@@ -1,9 +1,1 @@
 Some changes in branch one
-
-some changes part one
-
-some changes part two
-
-some changes part three
-
-final changes part four
