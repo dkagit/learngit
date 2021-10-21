@@ -1,6 +1,2 @@
 Some changes in branch one
 
-changing again one
-changing again two
-changing again three
-changing again four
