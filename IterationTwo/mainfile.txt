@@ -6,8 +6,13 @@ Second commit
 Third Commit
 Fourth Commit
 Fifth Commit
+<<<<<<< HEAD
 Sixth Commit
 Seventh commit
 
 Patch work in branch alpha
 Patch Work made again in alpha
+=======
+
+Patch work in branch alpha
+>>>>>>> c24dbdeeeb244fd04e10c0fc193ee2d15c21376d
